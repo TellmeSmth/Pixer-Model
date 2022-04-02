@@ -76,6 +76,7 @@ img {
     margin: 0 auto;
 }
 
+/* Header's Configurations */
 .header {
     width: 100%;
     background-color: #fff;
@@ -128,6 +129,7 @@ img {
     margin: 8px 0 8px 8px;
 }
 
+/* Main Content */
 .first-section {
     padding-bottom: 56px;
     position: sticky;
@@ -431,6 +433,7 @@ button {
     color: #ffffff;
 }
 
+/* Footer's Configurations */
 .footer {
     background-color: black;
     padding-bottom: 56px;
